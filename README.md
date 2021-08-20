@@ -23,3 +23,10 @@
 |2021.08.19|비밀번호| [1234](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD&categoryId=AV14_DEKAJcCFAYD&categoryType=CODE&problemTitle=%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | stack | [solved](./SWEA/1234.비밀번호.py) |
 |2021.08.20|삼성시의버스노선|6485 | list | [solved](./SWEA/6485.삼성시의버스노선.py) |
 
+# [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
+| Date       | Name        |Link                                | Type     | Solution                                                       |
+| :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
+|2021.08.20|사과나무(다이아몬드)|[섹션3_7번](https://juni-dev-log.tistory.com/135?category=933384)| list2 | [solved](./Inflearn/섹션3.탐색및시뮬레이션/7.사과나무.py) |
+|2021.08.20|곳감(모래시계)|[섹션3_8번](https://juni-dev-log.tistory.com/137?category=933384) | list2 | [solved](./Inflearn/섹션3.탐색및시뮬레이션/8.곳감(모래시계).py) |
+|2021.08.20|봉우리|[섹션3_9번](https://juni-dev-log.tistory.com/138?category=933384) | list2 | [solved](./Inflearn/섹션3.탐색및시뮬레이션/9.봉우리.py) |
+
