@@ -23,7 +23,7 @@
 |2021.08.19|비밀번호| [1234](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD&categoryId=AV14_DEKAJcCFAYD&categoryType=CODE&problemTitle=%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1) | stack | [solved](./SWEA/1234.비밀번호.py) |
 |2021.08.20|삼성시의버스노선|6485 | list | [solved](./SWEA/6485.삼성시의버스노선.py) |
 |2021.08.21|의석이의세로로말해요|[5356](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWVWgkP6sQ0DFAUO&categoryId=AWVWgkP6sQ0DFAUO&categoryType=CODE&problemTitle=%EC%9D%98%EC%84%9D%EC%9D%B4&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| string | [solved](./SWEA/5356.의석이의세로로말해요.py) |
-
+|2021.08.22|계산기2|[1223](https://swexpertacademy.com/main/code/problem/problemList.do?contestProbId=&categoryId=&categoryType=&problemTitle=%EA%B3%84%EC%82%B0%EA%B8%B02&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| stack | [solved](./SWEA/1223.계산기2.py) |
 # [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
