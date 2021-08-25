@@ -6,6 +6,7 @@
 | Date       | Name        |Link                                | Type     | Solution                                                       |
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
 |2021.08.23|직사각형면적| [2669](https://www.acmicpc.net/problem/2669) | list |[solved](./Baekjoon/2669.직사각형면적.py) |
+|2021.08.25|종이자르기| [2628](https://www.acmicpc.net/problem/2628) | list |[solved](./Baekjoon/2628.종이자르기.py) |
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
@@ -34,7 +35,7 @@
 |2021.08.24|미로|4875(im_stack2) | stack | [solved](./SWEA/4875.미로.py) |
 |2021.08.24|토너먼트카드게임|4880(im_stack2) | recursive | [solved](./SWEA/4880.토너먼트카드게임.py) |
 |2021.08.24|배열최소의합|4881(im_stack2) | backtracking | [solved](./SWEA/4881.배열최소의합.py) |
-|2021.08.24||[1225](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD&categoryId=AV14uWl6AF0CFAYD&categoryType=CODE&problemTitle=1225&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| queue | [solved](./SWEA/1225.암호생성기.py) |
+|2021.08.24|암호생성기|[1225](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD&categoryId=AV14uWl6AF0CFAYD&categoryType=CODE&problemTitle=1225&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| queue | [solved](./SWEA/1225.암호생성기.py) |
 # [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
