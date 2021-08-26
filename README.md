@@ -36,6 +36,11 @@
 |2021.08.24|토너먼트카드게임|4880(im_stack2) | recursive | [solved](./SWEA/4880.토너먼트카드게임.py) |
 |2021.08.24|배열최소의합|4881(im_stack2) | backtracking | [solved](./SWEA/4881.배열최소의합.py) |
 |2021.08.24|암호생성기|[1225](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD&categoryId=AV14uWl6AF0CFAYD&categoryType=CODE&problemTitle=1225&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| queue | [solved](./SWEA/1225.암호생성기.py) |
+|2021.08.26|미로1|[1226](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14vXUqAGMCFAYD&categoryId=AV14vXUqAGMCFAYD&categoryType=CODE&problemTitle=1226&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| bfs | [solved](./SWEA/1226.미로1.py) |
+|2021.08.26|회전|5097(im_queue) | queue | [solved](./SWEA/5097.회전.py) |
+|2021.08.26|피자굽기|5099(im_queue) | queue | [solved](./SWEA/5099.피자굽기.py) |
+|2021.08.26|노드의거리|5102(im_queue) | bfs | [solved](./SWEA/5102.노드의거리.py) |
+|2021.08.26|미로의거리|5105(im_queue) | bfs | [solved](./SWEA/5105.미로의거리.py) |
 # [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
