@@ -7,6 +7,7 @@
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
 |2021.08.23|직사각형면적| [2669](https://www.acmicpc.net/problem/2669) | list |[solved](./Baekjoon/2669.직사각형면적.py) |
 |2021.08.25|종이자르기| [2628](https://www.acmicpc.net/problem/2628) | list |[solved](./Baekjoon/2628.종이자르기.py) |
+|2021.08.27|수열| [2559](https://www.acmicpc.net/problem/2628) | list, 시간복잡도 |[solved](./Baekjoon/2559.수열(완).py) |
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
