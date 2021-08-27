@@ -41,6 +41,7 @@
 |2021.08.26|피자굽기|5099(im_queue) | queue | [solved](./SWEA/5099.피자굽기.py) |
 |2021.08.26|노드의거리|5102(im_queue) | bfs | [solved](./SWEA/5102.노드의거리.py) |
 |2021.08.26|미로의거리|5105(im_queue) | bfs | [solved](./SWEA/5105.미로의거리.py) |
+|2021.08.27|중위순회|[1231](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV140YnqAIECFAYD&categoryId=AV140YnqAIECFAYD&categoryType=CODE&problemTitle=1231&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 이진탐색 | [solved](./SWEA/1231.중위순회.py) |
 # [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
