@@ -10,6 +10,7 @@
 |2021.08.27|수열| [2559](https://www.acmicpc.net/problem/2559) | list, 시간복잡도 |[solved](./Baekjoon/2559.수열(완).py) |
 |2021.08.28|수이어가기| [2635](https://www.acmicpc.net/problem/2635) | brute-force |[solved](./Baekjoon/2635.수이어가기.py) |
 |2021.08.29|주사위쌓기| [2116](https://www.acmicpc.net/problem/2116) | brute-force |[solved](./Baekjoon/2116.주사위쌓기(완).py) |
+|2021.09.05|비밀번호발음하기| [4659](https://www.acmicpc.net/problem/4659) | 구현 |[solved](./Baekjoon/4659.비밀번호발음하기(백준)완.py) |
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
