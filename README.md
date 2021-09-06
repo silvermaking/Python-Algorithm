@@ -11,6 +11,7 @@
 |2021.08.28|수이어가기| [2635](https://www.acmicpc.net/problem/2635) | brute-force |[solved](./Baekjoon/2635.수이어가기.py) |
 |2021.08.29|주사위쌓기| [2116](https://www.acmicpc.net/problem/2116) | brute-force |[solved](./Baekjoon/2116.주사위쌓기(완).py) |
 |2021.09.05|비밀번호발음하기| [4659](https://www.acmicpc.net/problem/4659) | 구현 |[solved](./Baekjoon/4659.비밀번호발음하기(백준)완.py) |
+|2021.09.06|크로아티아알파벳| [2941](https://www.acmicpc.net/problem/2941) | 구현, 문자열 |[solved](./Baekjoon/2941.크로아티아알파벳(백준)(완).py) |
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
@@ -51,7 +52,7 @@
 |2021.09.01|최빈수구하기|[1204](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13zo1KAAACFAYh&categoryId=AV13zo1KAAACFAYh&categoryType=CODE&problemTitle=1204&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| list | [solved](./SWEA/1204.최빈수구하기.py) |
 |2021.09.01|백만장자프로젝트(복습)|[1859](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc&categoryId=AV5LrsUaDxcDFAXc&categoryType=CODE&problemTitle=1859&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| list, 정렬 | [solved](./SWEA/1859.백만장자프로젝트(복습).py) |
 |2021.09.01|간단한소인수분해|[1945](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq&categoryId=AV5Pl0Q6ANQDFAUq&categoryType=CODE&problemTitle=1945&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| list | [solved](./SWEA/1945.간단한소인수분해.py) |
-|2021.09.01|준환이의운동관리(쉬움)|[3431](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWE_ZXcqAAMDFAV2&categoryId=AWE_ZXcqAAMDFAV2&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=1)| 구현 | [solved](./SWEA/3431.준환이의 운동관리.py) |
+|2021.09.01|준환이의운동관리(쉬움)|[3431](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=3&contestProbId=AWE_ZXcqAAMDFAV2&categoryId=AWE_ZXcqAAMDFAV2&categoryType=CODE&problemTitle=&orderBy=PASS_RATE&selectCodeLang=PYTHON&select-1=3&pageSize=10&pageIndex=1)| 구현 | [solved](./SWEA/3431.준환이의운동관리.py) |
 |2021.09.04|중간 평균값 구하기|[1984](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pw_-KAdcDFAUq&categoryId=AV5Pw_-KAdcDFAUq&categoryType=CODE&problemTitle=1984&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| list | [solved](./SWEA/1984.중간평균값.py) |
 |2021.09.06|중간 평균값 구하기|[1984](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pw_-KAdcDFAUq&categoryId=AV5Pw_-KAdcDFAUq&categoryType=CODE&problemTitle=1984&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| list | [solved](./SWEA/1984.중간평균값.py) |
 |2021.09.06|시각덧셈|[1976](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PttaaAZIDFAUq&categoryId=AV5PttaaAZIDFAUq&categoryType=CODE&problemTitle=%EC%8B%9C%EA%B0%81&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 구현 | [solved](./SWEA/1976.시각덧셈.py) |
