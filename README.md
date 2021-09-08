@@ -13,6 +13,7 @@
 |2021.09.05|비밀번호발음하기| [4659](https://www.acmicpc.net/problem/4659) | 구현 |[solved](./Baekjoon/4659.비밀번호발음하기(백준)완.py) |
 |2021.09.06|크로아티아알파벳| [2941](https://www.acmicpc.net/problem/2941) | 구현, 문자열 |[solved](./Baekjoon/2941.크로아티아알파벳(백준)(완).py) |
 |2021.09.07|DFS와BFS| [1260](https://www.acmicpc.net/problem/1260) | DFS, BFS |[solved](./Baekjoon/1260.DFS와BFS(백준).py) |
+|2021.09.08|DFS와BFS| [1018](https://www.acmicpc.net/problem/1018) | brute-force |[solved](./Baekjoon/1018.체스판다시칠하기(백준)(완).py) |
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
