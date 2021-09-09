@@ -1,6 +1,12 @@
 # Python-Algorithm
 파이썬 알고리즘 문제풀이
 
+# [프로그래머스](https://programmers.co.kr/)
+| Date       | Name        |Link                                | Type     | Solution                                                       |
+| :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
+|2021.09.09|신규아이디추천(카카오공채)| [2020_1차_1번](https://programmers.co.kr/learn/courses/30/lessons/72410) | 문자열 |[solved](./programmers/카카오공채2020_1차_1번(완).py) |
+
+
 # [백준](https://www.acmicpc.net/)
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
