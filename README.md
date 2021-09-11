@@ -1,6 +1,12 @@
 # Python-Algorithm
 파이썬 알고리즘 문제풀이
 
+# [프로그래머스](https://programmers.co.kr/)
+| Date       | Name        |Link                                | Type     | Solution                                                       |
+| :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
+|2021.09.09|신규아이디추천(카카오공채)| [2020_1차_1번](https://programmers.co.kr/learn/courses/30/lessons/72410) | 문자열 |[solved](./programmers/카카오공채2020_1차_1번(완).py) |
+
+
 # [백준](https://www.acmicpc.net/)
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
@@ -13,6 +19,7 @@
 |2021.09.05|비밀번호발음하기| [4659](https://www.acmicpc.net/problem/4659) | 구현 |[solved](./Baekjoon/4659.비밀번호발음하기(백준)완.py) |
 |2021.09.06|크로아티아알파벳| [2941](https://www.acmicpc.net/problem/2941) | 구현, 문자열 |[solved](./Baekjoon/2941.크로아티아알파벳(백준)(완).py) |
 |2021.09.07|DFS와BFS| [1260](https://www.acmicpc.net/problem/1260) | DFS, BFS |[solved](./Baekjoon/1260.DFS와BFS(백준).py) |
+|2021.09.08|DFS와BFS| [1018](https://www.acmicpc.net/problem/1018) | brute-force |[solved](./Baekjoon/1018.체스판다시칠하기(백준)(완).py) |
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
