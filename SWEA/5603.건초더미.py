@@ -1,4 +1,3 @@
-#백준(1018) - 실버V.체스판 다시 칠하기
 T = int(input())
 for tc in range(1, T+1):
     N = int(input())
