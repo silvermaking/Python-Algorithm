@@ -21,6 +21,7 @@
 |2021.09.07|DFS와BFS| [1260](https://www.acmicpc.net/problem/1260) | DFS, BFS |[solved](./Baekjoon/1260.DFS와BFS(백준).py) |
 |2021.09.08|DFS와BFS| [1018](https://www.acmicpc.net/problem/1018) | brute-force |[solved](./Baekjoon/1018.체스판다시칠하기(백준)(완).py) |
 |2021.09.14|쉽게푸는문제| [1292](https://www.acmicpc.net/problem/1292) | brute-force |[solved](./Baekjoon/1292.쉽게푸는문제(백준).py) |
+|2021.09.15|그룹단어체커| [1316](https://www.acmicpc.net/problem/1316) | 문자열 |[solved](./Baekjoon/1316.그룹단어체커(백준)(완).py) |
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
@@ -67,7 +68,8 @@
 |2021.09.06|시각덧셈|[1976](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PttaaAZIDFAUq&categoryId=AV5PttaaAZIDFAUq&categoryType=CODE&problemTitle=%EC%8B%9C%EA%B0%81&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 구현 | [solved](./SWEA/1976.시각덧셈.py) |
 |2021.09.06|태혁이의사랑은타이밍|[4299](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLv6mx6htoDFAVV&categoryId=AWLv6mx6htoDFAVV&categoryType=CODE&problemTitle=4299&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 구현 | [solved](./SWEA/4299.태혁이의사랑은타이밍.py) |
 |2021.09.12|간단한압축풀기|[1946](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PmkDKAOMDFAUq&categoryId=AV5PmkDKAOMDFAUq&categoryType=CODE&problemTitle=1946&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&)| 문자열 | [solved](./SWEA/1946.간단한압축풀기.py) |
-|2021.09.13|건초더미|[5603](hhttps://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo&categoryId=AWXGEbd6cjMDFAUo&categoryType=CODE&problemTitle=5603&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 문자열 | [solved](./SWEA/5603.건초더미.py) |
+|2021.09.13|건초더미|[5603](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXGEbd6cjMDFAUo&categoryId=AWXGEbd6cjMDFAUo&categoryType=CODE&problemTitle=5603&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 문자열 | [solved](./SWEA/5603.건초더미.py) |
+|2021.09.15|농작물수확하기|[2805](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB&categoryId=AV7GLXqKAWYDFAXB&categoryType=CODE&problemTitle=2805&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&)| 문자열 | [solved](./SWEA/2805.농작물수확하기.py) |
 
 # [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
