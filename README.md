@@ -1,6 +1,11 @@
 # Python-Algorithm
 파이썬 알고리즘 문제풀이
 
+# [이것이코딩테스트다 with Python](https://github.com/ndb796/python-for-coding-test)
+| Date       | Name        |Link                                | Type     | Solution                                                       |
+| :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
+|2021.09.21|음료수얼려먹기| [go](https://github.com/ndb796/python-for-coding-test/blob/master/5/10.py) | DFS, 재귀 |[solved](./이코테/음료수얼려먹기.py) |
+
 # [프로그래머스](https://programmers.co.kr/)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
