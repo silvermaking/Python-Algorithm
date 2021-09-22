@@ -5,6 +5,7 @@
 | Date       | Name        |Link                                | Type     | Solution                                                       |
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
 |2021.09.21|음료수얼려먹기| [go](https://github.com/ndb796/python-for-coding-test/blob/master/5/10.py) | DFS, 재귀 |[solved](./이코테/음료수얼려먹기.py) |
+|2021.09.22|미로탈출| [go](https://github.com/ndb796/python-for-coding-test/blob/master/5/11.py) | BFS |[solved](./이코테/미로탈출.py) |
 
 # [프로그래머스](https://programmers.co.kr/)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
