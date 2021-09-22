@@ -5,7 +5,7 @@
 | Date       | Name        |Link                                | Type     | Solution                                                       |
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
 |2021.09.21|음료수얼려먹기| [go](https://github.com/ndb796/python-for-coding-test/blob/master/5/10.py) | DFS, 재귀 |[solved](./이코테/음료수얼려먹기.py) |
-|2021.09.22|미로탈출| [go](https://github.com/ndb796/python-for-coding-test/blob/master/5/11.py) | BFS |[solved](./이코테/미로탈출.py) |
+|2021.09.22|미로탈출,2178(백준)| [go](https://github.com/ndb796/python-for-coding-test/blob/master/5/11.py) | BFS |[solved](./이코테/미로탈출.py) |
 
 # [프로그래머스](https://programmers.co.kr/)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
@@ -28,6 +28,7 @@
 |2021.09.08|DFS와BFS| [1018](https://www.acmicpc.net/problem/1018) | brute-force |[solved](./Baekjoon/1018.체스판다시칠하기(백준)(완).py) |
 |2021.09.14|쉽게푸는문제| [1292](https://www.acmicpc.net/problem/1292) | brute-force |[solved](./Baekjoon/1292.쉽게푸는문제(백준).py) |
 |2021.09.15|그룹단어체커| [1316](https://www.acmicpc.net/problem/1316) | 문자열 |[solved](./Baekjoon/1316.그룹단어체커(백준)(완).py) |
+|2021.09.23|미로탐색| [2178](https://www.acmicpc.net/problem/1278) | BFS |[solved](./Baekjoon/2178.미로탐색(백준).py) |
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
