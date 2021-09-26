@@ -30,6 +30,7 @@
 |2021.09.15|그룹단어체커| [1316](https://www.acmicpc.net/problem/1316) | 문자열 |[solved](./Baekjoon/1316.그룹단어체커(백준)(완).py) |
 |2021.09.23|미로탐색| [2178](https://www.acmicpc.net/problem/1278) | BFS |[solved](./Baekjoon/2178.미로탐색(백준).py) |
 |2021.09.25|트리순회| [1991](https://www.acmicpc.net/problem/1991) | 트리, 순회 |[solved](./Baekjoon/1991.트리순회(백준).py) |
+|2021.09.26|단지번호붙이기| [2667](https://www.acmicpc.net/problem/2667) | DFS |[solved](./Baekjoon/2667.단지번호붙이기(백준).py) |
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
