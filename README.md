@@ -33,7 +33,7 @@
 |2021.09.26|단지번호붙이기| [2667](https://www.acmicpc.net/problem/2667) | DFS |[solved](./Baekjoon/2667.단지번호붙이기(백준).py) |
 |2021.09.27|수들의합| [1789](https://www.acmicpc.net/problem/1789) | DFS |[solved](./Baekjoon/1789.수들의합(백준).py) |
 |2021.09.27|설탕배달| [2839](https://www.acmicpc.net/problem/2839) | DP, math |[solved](./Baekjoon/2839.설탕배달(백준).py) |
-|2021.09.28|햄버거사랑| [1980](https://www.acmicpc.net/problem/1980) | DP, math |[solved](./Baekjoon/1980.햄버거사랑(백준).py) |
+|2021.09.28|햄버거사랑| [1980](https://www.acmicpc.net/problem/1980) |       구현       |[solved](./Baekjoon/1980.햄버거사랑(백준).py) |
 
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
