@@ -1,6 +1,8 @@
 '''
 구현, brute-force
 
+=======
+
 '''
 import sys
 n, m, t = map(int, sys.stdin.readline().strip().split())
@@ -14,8 +16,8 @@ while True:
 
     # 나누어 안떨어지면 coke 한개 씩 추가
     if temp_t < 0:
-        coke += 1
-        temp_t = t - coke
+        coke += 1  #1분
+        temp_t = t - coke  # 7분 -1분 = 6분
         cnt = 0
     #적은 타임의 햄버거수가 더 많게
     if n <= m:
