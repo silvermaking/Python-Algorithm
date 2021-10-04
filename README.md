@@ -35,6 +35,8 @@
 |2021.09.27|설탕배달| [2839](https://www.acmicpc.net/problem/2839) | DP, math |[solved](./Baekjoon/2839.설탕배달(백준).py) |
 |2021.09.28|햄버거사랑| [1980](https://www.acmicpc.net/problem/1980) |       구현       |[solved](./Baekjoon/1980.햄버거사랑(백준).py) |
 |2021.09.29|문자열| [1120](https://www.acmicpc.net/problem/1120) |       구현,문자열|[solved](./Baekjoon/1120.문자열(백준).py) |
+|2021.10.04|로마숫자만들기| [16922](https://www.acmicpc.net/problem/16922) |구현, 조합|[solved](./Baekjoon/16922.로마숫자만들기(백준).py) |
+|2021.10.04|개미| [10158](https://www.acmicpc.net/problem/10158) |       구현, math|[solved](./Baekjoon/10158.개미.py) |
 
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
