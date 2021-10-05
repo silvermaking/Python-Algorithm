@@ -104,6 +104,12 @@
 |2021.09.30|        암호코드스캔      |[1242](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15JEKKAM8CFAYD&categoryId=AV15JEKKAM8CFAYD&categoryType=CODE&problemTitle=1242&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 구현| [solved](./SWEA/1242.암호코드스캔.py) |
 |2021.10.02|        최대상금      |[1244](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE&problemTitle=1244&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 구현, 완전탐색| [solved_구현](./SWEA/1244.최대상금.py), [solved_완전탐색](./SWEA/1244.최대상금_완전탐색.py) |
 |2021.10.03|        항구에들어오는배      |[4371](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMedCxalW8DFAXd&categoryId=AWMedCxalW8DFAXd&categoryType=CODE&problemTitle=4371&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 구현| [solved](./SWEA/4371.항구에들어오는배.py) |
+|2021.10.05|        최소합      |[5188](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDrI61lYDFAVT)| 완전탐색| [solved](./SWEA/5188.최소합.py) |
+|2021.10.05|        전자카트      |[5189](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYDrI61lYDFAVT)| 완전탐색| [solved](./SWEA/5189.전자카트.py), [solved2](./SWEA/5189.전자카트(교수님).py) |
+|2021.10.05|        컨테이너운반      |[5201](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT)| greedy| [solved](./SWEA/5201.컨테이너운반.py) |
+|2021.10.05|        화물도크      |[5202](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT)| greedy| [solved](./SWEA/5202.화물도크.py) |
+|2021.10.05|        베이비진      |[5203](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT)| greedy| [solved](./SWEA/5203.베이비진.py) |
+
 # [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
