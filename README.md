@@ -37,6 +37,7 @@
 |2021.09.29|문자열| [1120](https://www.acmicpc.net/problem/1120) |       구현,문자열|[solved](./Baekjoon/1120.문자열(백준).py) |
 |2021.10.04|로마숫자만들기| [16922](https://www.acmicpc.net/problem/16922) |구현, 조합|[solved](./Baekjoon/16922.로마숫자만들기(백준).py) |
 |2021.10.04|개미| [10158](https://www.acmicpc.net/problem/10158) |       구현, math|[solved](./Baekjoon/10158.개미.py) |
+|2021.10.07|꿀따기| [21758](https://www.acmicpc.net/problem/21758) |       구현, math|[solved_55점](./Baekjoon/21758.꿀따기(55점).py) |
 
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
@@ -109,7 +110,8 @@
 |2021.10.05|        컨테이너운반      |[5201](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT)| greedy| [solved](./SWEA/5201.컨테이너운반.py) |
 |2021.10.05|        화물도크      |[5202](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT)| greedy| [solved](./SWEA/5202.화물도크.py) |
 |2021.10.05|        베이비진      |[5203](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYEGw61n8DFAVT)| greedy| [solved](./SWEA/5203.베이비진.py) |
-|2021.10.06|        병합정렬      |[5204](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT)| 분할정복(이진탐색)| [solved](./SWEA/5204.병합정렬.py) |
+|2021.10.06|        병합정렬      |[5204](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT)| 분할정복(병합정렬)| [solved](./SWEA/5204.병합정렬.py) |
+|2021.10.07|        퀵정렬      |[5205](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYFsQq11kDFAVT)| 분할정복(퀵정렬)| [solved](./SWEA/5205.퀵정렬.py) |
 
 # [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
