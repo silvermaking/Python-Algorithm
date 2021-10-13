@@ -39,6 +39,7 @@
 |2021.10.04|개미| [10158](https://www.acmicpc.net/problem/10158) |       구현, math|[solved](./Baekjoon/10158.개미.py) |
 |2021.10.07|꿀따기| [21758](https://www.acmicpc.net/problem/21758) |       구현, math|[solved_55점](./Baekjoon/21758.꿀따기(55점).py) |
 |2021.10.10|바이러스| [2606](https://www.acmicpc.net/problem/2606) |       구현, math|[solved_55점](./Baekjoon/2606.바이러스(백준).py) |
+|2021.10.13|토너먼트| [1057](https://www.acmicpc.net/problem/1057) |       브루트포스|[solved](./Baekjoon/1057.토너먼트(백준).py) |
 
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 

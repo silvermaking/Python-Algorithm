@@ -5,6 +5,4 @@ for tc in range(1, int(input()) + 1):
     K_lst = list(map(int, input().split()))
     answer = [i for i in range(1, N+1) if i not in K_lst]
     print(f'#{tc}', end=" ")
-    for ans in answer:
-        print(ans, end=" ")
-    print()
+    print(*answer)
