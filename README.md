@@ -129,8 +129,10 @@
 |2021.10.12|        요리사     |[4012](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&categoryId=AWIeUtVakTMDFAVH&categoryType=CODE&problemTitle=4012&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| dfs| [solved](./SWEA/4012.요리사.py) |
 |2021.10.12|        디저트카페     |[2105](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu&categoryId=AV5VwAr6APYDFAWu&categoryType=CODE&problemTitle=2105&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 완전탐색, 구현| [solved](./SWEA/2105.디저트카페.py) |
 |2021.10.14|        연산     |[5247](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYG3y62EcDFAVT)| bfs, backtracking| [solved](./SWEA/5247.연산.py) |
-|2021.10.14|        그룹나누기     |[5248](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYG3y62EcDFAVT)| 그래프(서로소집합)| [solved](./SWEA/5248.그룹나누기.py) |
+|2021.10.14|        그룹나누기     |[5248](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYG3y62EcDFAVT)| 그래프(서로소집합)| [solved](./SWEA/5248.그룹나누기.py), [solved_dfs](./SWEA/5248.그룹나누기(dfs).py) |
+|2021.10.14|        최소신장트리     |[5249](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYHO7a2JoDFAVT#)| 그래프(prim)| [solved](./SWEA/5249.최소신장트리.py) |
 |2021.10.14|        최소비용     |[5250](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYHO7a2JoDFAVT#)| bfs| [solved](./SWEA/5250.최소비용.py) |
+|2021.10.14|        최소이동거리     |[5251](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYHO7a2JoDFAVT#)| bfs| [solved](./SWEA/5251.최소이동거리.py) |
 
 # [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
