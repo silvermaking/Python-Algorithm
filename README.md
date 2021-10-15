@@ -136,6 +136,10 @@
 |2021.10.14|        최소신장트리     |[5249](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYHO7a2JoDFAVT#)| 그래프(prim)| [solved](./SWEA/5249.최소신장트리.py) |
 |2021.10.14|        최소비용     |[5250](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYHO7a2JoDFAVT#)| bfs| [solved](./SWEA/5250.최소비용.py) |
 |2021.10.14|        최소이동거리     |[5251](https://swexpertacademy.com/main/learn/course/subjectDetail.do?courseId=AVuPDYSqAAbw5UW6&subjectId=AWUYHO7a2JoDFAVT#)| bfs| [solved](./SWEA/5251.최소이동거리.py) |
+|2021.10.15|        보급로     |[1249](https://vo.la/S6R0z)| bfs, dijkstra| [solved](./SWEA/1249.보급로.py) |
+|2021.10.15|        하나로     |[1249](https://vo.la/2lK4k)| 그래프, 최소신장트리| [solved](./SWEA/1251.하나로.py) |
+|2021.10.15|        인수의생일파티     |[1795](https://vo.la/OpVGn)| 그래프, 최소신장트리| [solved](./SWEA/1795.인수의생일파티.py) |
+2021.10.15|        창용마을무리의개수     |[7465](https://vo.la/hYLqn)| 그래프(서로소) | [solved](./SWEA/7465.창용마을무리의개수.py) |
 
 # [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
