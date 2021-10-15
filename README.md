@@ -1,5 +1,8 @@
 # Python-Algorithm
 파이썬 알고리즘 문제풀이
+-  [알고리즘 기본기 다지기](https://github.com/silvermaking/Algorithm-basic-training)
+
+
 
 # [이것이코딩테스트다 with Python](https://github.com/ndb796/python-for-coding-test)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
