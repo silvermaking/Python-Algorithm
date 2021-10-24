@@ -143,7 +143,8 @@
 |2021.10.15|        인수의생일파티     |[1795](https://vo.la/OpVGn)| 그래프, 최소신장트리| [solved](./SWEA/1795.인수의생일파티.py) |
 2021.10.15|        창용마을무리의개수     |[7465](https://vo.la/hYLqn)| 그래프(서로소) | [solved](./SWEA/7465.창용마을무리의개수.py) |
 2021.10.18|        부분수열의합     |[2817](https://vo.la/Is2IM)| 비트, 부분집합 | [solved](./SWEA/2817.부분수열의합.py) |
-2021.10.22|        초밥식사     |[10204](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCcO16Vi8DFAWv&categoryId=AXMCcO16Vi8DFAWv&categoryType=CODE&problemTitle=10204&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 구현 | [solved](./SWEA/10204.초밥식사.py) |
+2021.10.23|        초밥식사     |[10204](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCcO16Vi8DFAWv&categoryId=AXMCcO16Vi8DFAWv&categoryType=CODE&problemTitle=10204&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 구현 | [solved](./SWEA/10204.초밥식사.py) |
+2021.10.24|        카나페     |[10947](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AXV5GFrqw-8DFAUT&categoryId=AXV5GFrqw-8DFAUT&categoryType=CODE&&&| 구현 | [solved](./SWEA/10947.카나페.py) |
 
 # [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
