@@ -41,9 +41,10 @@
 |2021.10.04|로마숫자만들기| [16922](https://www.acmicpc.net/problem/16922) |구현, 조합|[solved](./Baekjoon/16922.로마숫자만들기(백준).py) |
 |2021.10.04|개미| [10158](https://www.acmicpc.net/problem/10158) |       구현, math|[solved](./Baekjoon/10158.개미.py) |
 |2021.10.07|꿀따기| [21758](https://www.acmicpc.net/problem/21758) |       구현, math|[solved_55점](./Baekjoon/21758.꿀따기(55점).py) |
-|2021.10.10|바이러스| [2606](https://www.acmicpc.net/problem/2606) |       구현, math|[solved_55점](./Baekjoon/2606.바이러스(백준).py) |
+|2021.10.10|바이러스| [2606](https://www.acmicpc.net/problem/2606) |       구현, math|[solved](./Baekjoon/2606.바이러스(백준).py) |
 |2021.10.13|토너먼트| [1057](https://www.acmicpc.net/problem/1057) |       브루트포스|[solved](./Baekjoon/1057.토너먼트(백준).py) |
 |2021.10.21|로또| [6603](https://www.acmicpc.net/problem/6603) |       조합, 재귀|[solved](./Baekjoon/6603.로또(백준).py) |
+|2021.10.21|유기농배추| [1012](https://www.acmicpc.net/problem/1012) |그래프탐색, recursionerror|[solved](./Baekjoon/1012.유기농배추.py) |
 
 
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
