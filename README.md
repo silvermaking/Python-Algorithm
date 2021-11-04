@@ -46,7 +46,8 @@
 |2021.10.21|로또| [6603](https://www.acmicpc.net/problem/6603) |       조합, 재귀|[solved](./Baekjoon/6603.로또(백준).py) |
 |2021.10.21|유기농배추| [1012](https://www.acmicpc.net/problem/1012) |그래프탐색, recursionerror|[solved](./Baekjoon/1012.유기농배추.py) |
 |2021.10.30|로봇청소기| [14503](https://www.acmicpc.net/problem/14503) |bfs, 구현|[solved](./Baekjoon/14503.로봇청소기(백준).py) |
-|2021.11.01|로봇청소기| [3584](https://www.acmicpc.net/problem/3584) |트리, 그래프탐색|[solved](./Baekjoon/3584.공통조상(백준).py) |
+|2021.11.01|공통조상| [3584](https://www.acmicpc.net/problem/3584) |트리, 그래프탐색|[solved](./Baekjoon/3584.공통조상(백준).py) |
+|2021.11.04|치즈| [2636](https://www.acmicpc.net/problem/2636) |bfs, 구현|[solved](./Baekjoon/2636.치즈(백준).py) |
 
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
