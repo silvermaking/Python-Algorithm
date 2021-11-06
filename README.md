@@ -149,7 +149,7 @@
 |2021.10.23|        초밥식사     |[10204](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXMCcO16Vi8DFAWv&categoryId=AXMCcO16Vi8DFAWv&categoryType=CODE&problemTitle=10204&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| 구현 | [solved](./SWEA/10204.초밥식사.py) |
 |2021.10.24|        카나페     |[10947](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AXV5GFrqw-8DFAUT&categoryId=AXV5GFrqw-8DFAUT&categoryType=CODE&&&)| 구현 | [solved](./SWEA/10947.카나페.py) |
 |2021.11.03|        공통조상     |[1248](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD)| 트리, 그래프탐색 | [solved](./SWEA/1248.공통조상.py) |
-
+|2021.11.06|        전봇대     |[10580](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXO8QBw6Qu4DFAXS&categoryId=AXO8QBw6Qu4DFAXS&categoryType=CODE&problemTitle=10580&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| greedy | [solved](./SWEA/10580.전봇대.py) |
 # [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
