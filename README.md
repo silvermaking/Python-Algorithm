@@ -49,6 +49,7 @@
 |2021.11.01|공통조상| [3584](https://www.acmicpc.net/problem/3584) |트리, 그래프탐색|[solved](./Baekjoon/3584.공통조상(백준).py) |
 |2021.11.04|치즈| [2636](https://www.acmicpc.net/problem/2636) |bfs, 구현|[solved](./Baekjoon/2636.치즈(백준).py) |
 |2021.11.07|치즈| [11052](https://www.acmicpc.net/problem/11052) |dp|[solved](./Baekjoon/11052.카드구매하기(백준).py) |
+|2021.11.08|보이저1호| [3987](https://www.acmicpc.net/problem/3987) |구현, 시뮬레이션|[solved](./Baekjoon/3987.보이저1호(백준).py) |
 
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
