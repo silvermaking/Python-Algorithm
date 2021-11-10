@@ -152,6 +152,7 @@
 |2021.10.24|        카나페     |[10947](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AXV5GFrqw-8DFAUT&categoryId=AXV5GFrqw-8DFAUT&categoryType=CODE&&&)| 구현 | [solved](./SWEA/10947.카나페.py) |
 |2021.11.03|        공통조상     |[1248](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15PTkqAPYCFAYD)| 트리, 그래프탐색 | [solved](./SWEA/1248.공통조상.py) |
 |2021.11.06|        전봇대     |[10580](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXO8QBw6Qu4DFAXS&categoryId=AXO8QBw6Qu4DFAXS&categoryType=CODE&problemTitle=10580&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| greedy | [solved](./SWEA/10580.전봇대.py) |
+|2021.11.10|  재관이의대량할인   |[4050](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIseXoKEUcDFAWN&categoryId=AWIseXoKEUcDFAWN&categoryType=CODE&problemTitle=%ED%95%A0%EC%9D%B8&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)| math, 구현 | [solved](./SWEA/4050.재관이의대량할인.py) |
 # [Inflearn](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8#curriculum)
 | Date       | Name        |Link                                | Type     | Solution                                                       |
 | :--------: | :---------: | :------------------------------------:|:--------: |-------------------------------------------------------- |
