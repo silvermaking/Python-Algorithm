@@ -51,6 +51,7 @@
 |2021.11.07|치즈| [11052](https://www.acmicpc.net/problem/11052) |dp|[solved](./Baekjoon/11052.카드구매하기(백준).py) |
 |2021.11.08|보이저1호| [3987](https://www.acmicpc.net/problem/3987) |구현, 시뮬레이션|[solved](./Baekjoon/3987.보이저1호(백준).py) |
 |2021.11.14|에너지모으기| [16198](https://www.acmicpc.net/problem/16198) |brute-force|[solved](./Baekjoon/16198.에너지모으기(백준).py) |
+|2021.11.17|부등호| [2529](https://www.acmicpc.net/problem/2529) |backtracking|[solved](./Baekjoon/2529.부등호(백준).py) |
 # [SWEA](https://swexpertacademy.com/main/learn/course/courseList.do)
 
 | Date       | Name        |Link                                | Type     | Solution                                                       |
